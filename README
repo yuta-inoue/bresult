@@ -1,0 +1,55 @@
+* 作成者
+川尻: kawajiri@ics.t.u-tokyo.ac.jp
+金子: kaneko@ics.t.u-tokyo.ac.jp
+(2013年度版修正 子安，西，前田: 2013m1@ics.t.u-tokyo.ac.jp)
+
+* 目的
+計算機演習 バトルシップの対戦結果の集計プログラムを作成する演習．
+
+* ファイル構成
+** README
+ このファイル．
+** Makefile
+ ビルド，テスト，クリーン
+** battleship.h
+ データの型，関数のプロトタイプ宣言
+** *.c
+ ファイル名と一致した関数名の実装．
+
+* 使い方
+** コンパイル
+$ make
+or
+$ make main
+
+** テスト
+$ make test
+
+結果がresult?.txtに格納される．
+
+出力例:
+./main data/data1.log > result1.txt
+getting data
+calculating stats
+sorting stats
+printing stats
+./main data/data2.log > result2.txt
+getting data
+calculating stats
+sorting stats
+printing stats
+./main data/data3.log > result3.txt
+getting data
+calculating stats
+sorting stats
+printing stats
+./main data/data4.log > result4.txt
+getting data
+calculating stats
+sorting stats
+printing stats
+
+** クリーン
+$ make clean
+
+オブジェクトファイルやemacsの一時ファイルとか

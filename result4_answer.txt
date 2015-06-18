@@ -1,0 +1,10 @@
+ID:0202 wins:1771 losses:227 rate:0.886 avg. rounds40.90
+ID:0309 wins:1762 losses:236 rate:0.882 avg. rounds41.20
+ID:0442 wins:1760 losses:238 rate:0.881 avg. rounds41.20
+ID:0270 wins:1751 losses:247 rate:0.876 avg. rounds41.34
+ID:0800 wins:1743 losses:255 rate:0.872 avg. rounds39.92
+ID:0824 wins:1737 losses:261 rate:0.869 avg. rounds39.35
+ID:0704 wins:1736 losses:262 rate:0.869 avg. rounds40.50
+ID:0750 wins:1736 losses:262 rate:0.869 avg. rounds41.25
+ID:0515 wins:1733 losses:265 rate:0.867 avg. rounds41.26
+ID:0764 wins:1723 losses:275 rate:0.862 avg. rounds40.96

@@ -1,0 +1,5 @@
+ID:0005 wins:6 losses:2 rate:0.750 avg. rounds28.33
+ID:0003 wins:5 losses:3 rate:0.625 avg. rounds28.00
+ID:0004 wins:5 losses:3 rate:0.625 avg. rounds29.00
+ID:0001 wins:3 losses:5 rate:0.375 avg. rounds26.00
+ID:0002 wins:1 losses:7 rate:0.125 avg. rounds28.00
